@@ -1,2 +1,2 @@
-# forkercms
-projeto forker cms
+# dothcms
+projeto em desenvolvimento dothcms
