@@ -1,0 +1,55 @@
+[27-Oct-2018 16:18:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'robots' (T_STRING) in /home3/capityp2/public_html/forkercms/application/views/cfg_user/login.php on line 8
+[27-Oct-2018 16:19:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'robots' (T_STRING) in /home3/capityp2/public_html/forkercms/application/views/cfg_user/login.php on line 8
+[27-Oct-2018 17:31:55 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 48
+[27-Oct-2018 18:14:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/capityp2/public_html/dothnews/application/controllers/Dothnews.php on line 9
+[27-Oct-2018 18:14:15 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/capityp2/public_html/dothnews/application/controllers/Dothnews.php on line 9
+[27-Oct-2018 18:14:32 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/capityp2/public_html/dothnews/application/controllers/Dothnews.php on line 9
+[27-Oct-2018 18:14:33 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/capityp2/public_html/dothnews/application/controllers/Dothnews.php on line 9
+[27-Oct-2018 18:14:58 America/Chicago] PHP Fatal error:  Call to undefined method Dothnews::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Dothnews.php on line 7
+[27-Oct-2018 18:15:00 America/Chicago] PHP Fatal error:  Call to undefined method Dothnews::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Dothnews.php on line 7
+[27-Oct-2018 18:15:02 America/Chicago] PHP Fatal error:  Call to undefined method Dothnews::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Dothnews.php on line 7
+[27-Oct-2018 18:15:02 America/Chicago] PHP Fatal error:  Call to undefined method Dothnews::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Dothnews.php on line 7
+[27-Oct-2018 18:16:24 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:16:25 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:16:26 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:16:27 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:16:27 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:16:27 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:16:27 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:16:27 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:16:27 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:16:27 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:17:16 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:17:17 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:17:18 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:17:18 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:17:18 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:17:18 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:17:18 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:17:18 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:17:19 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:17:19 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:17:21 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:17:46 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:18:49 America/Chicago] PHP Fatal error:  Call to undefined method Auth::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 72
+[27-Oct-2018 18:19:46 America/Chicago] PHP Fatal error:  Call to undefined method CI_Session::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:19:47 America/Chicago] PHP Fatal error:  Call to undefined method CI_Session::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 22
+[27-Oct-2018 18:20:47 America/Chicago] PHP Fatal error:  Call to undefined method Dothnews::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Dothnews.php on line 7
+[27-Oct-2018 18:20:48 America/Chicago] PHP Fatal error:  Call to undefined method Dothnews::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Dothnews.php on line 7
+[27-Oct-2018 18:20:49 America/Chicago] PHP Fatal error:  Call to undefined method Dothnews::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Dothnews.php on line 7
+[27-Oct-2018 18:21:13 America/Chicago] PHP Fatal error:  Call to undefined method Dothnews::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Dothnews.php on line 7
+[27-Oct-2018 18:21:17 America/Chicago] PHP Fatal error:  Call to undefined method Dothnews::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Dothnews.php on line 7
+[27-Oct-2018 18:22:34 America/Chicago] PHP Fatal error:  Call to undefined method Dothnews::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Dothnews.php on line 7
+[27-Oct-2018 18:22:47 America/Chicago] PHP Fatal error:  Call to undefined method Dothnews::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Dothnews.php on line 7
+[27-Oct-2018 18:22:48 America/Chicago] PHP Fatal error:  Call to undefined method Dothnews::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Dothnews.php on line 7
+[27-Oct-2018 18:22:48 America/Chicago] PHP Fatal error:  Call to undefined method Dothnews::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Dothnews.php on line 7
+[27-Oct-2018 18:24:33 America/Chicago] PHP Fatal error:  Call to undefined method CI_Session::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Auth.php on line 70
+[27-Oct-2018 18:26:13 America/Chicago] PHP Fatal error:  Call to undefined method Dothnews::session_userdata() in /home3/capityp2/public_html/dothnews/application/controllers/Dothnews.php on line 7
+[29-Oct-2018 17:38:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/capityp2/public_html/dothnews/application/controllers/Doth.php on line 15
+[29-Oct-2018 17:50:07 America/Chicago] PHP Parse error:  syntax error, unexpected '!', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home3/capityp2/public_html/dothnews/application/controllers/Cfg_user.php on line 31
+[29-Oct-2018 18:24:48 America/Chicago] PHP Parse error:  syntax error, unexpected '3' (T_LNUMBER) in /home3/capityp2/public_html/dothnews/application/models/Cfg_user_model.php on line 56
+[29-Oct-2018 18:26:02 America/Chicago] PHP Parse error:  syntax error, unexpected '3' (T_LNUMBER) in /home3/capityp2/public_html/dothnews/application/models/Cfg_user_model.php on line 56
+[29-Oct-2018 18:33:56 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::inner() in /home3/capityp2/public_html/dothnews/application/models/Cfg_user_model.php on line 73
+[29-Oct-2018 18:34:04 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::inner() in /home3/capityp2/public_html/dothnews/application/models/Cfg_user_model.php on line 73
+[29-Oct-2018 19:53:42 America/Chicago] PHP Fatal error:  Cannot call constructor in /home3/capityp2/public_html/dothnews/application/models/Cfg_grupo_model.php on line 19
+[29-Oct-2018 21:18:21 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home3/capityp2/public_html/dothnews/application/views/cfg_user/editar.php on line 250
